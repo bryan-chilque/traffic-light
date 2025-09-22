@@ -8,6 +8,5 @@ Un semáforo digital interactivo construido con React y TypeScript. Simula el co
 - ⏱️ Countdown de 5 segundos por estado
 - �� Animaciones con Tailwind CSS
 - 🎣 Custom Hook reutilizable
-- 📱 Responsive design
 
 ## 🚀 Demo
